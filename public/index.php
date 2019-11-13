@@ -27,4 +27,11 @@ $response->send();
 $kernel->terminate($request, $response);
 
 ?>
-<h1> Hello World </h1>
+
+<!DOCTYPE html>
+
+<html>
+
+    <h1> Welcome to Symfony </h1>
+
+</html>
